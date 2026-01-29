@@ -2,7 +2,6 @@
 <h3 align="center">A passionate AI Engineer</h3>
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nandhu-wentafk" alt="nandhu-wentafk" /></a> </p>
 
 - 👯 I’m looking to collaborate on **AI Projects**
 
